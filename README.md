@@ -27,5 +27,7 @@ After flashing the module from magisk reboot and enjoy !
 [Releases](https://github.com/SOUROVKHANNAHID/GSIFixes-Hot-11S/releases/)
 ## About Me
 [Click Here](https://linktr.ee/D3V1L.XH4N)
+
 [Subscribe](https://youtube.com/@SourovKhanNahid)
+
 [Buy Me A Coffee ☕](https://www.buymeacoffee.com/SourovKhanNahid)
